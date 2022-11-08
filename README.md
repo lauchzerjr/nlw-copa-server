@@ -1,3 +1,16 @@
+<p align="center">
+  <img alt="NLW Copa" src=".github/logo.svg" />
+</p>
+
+## ✨ Tecnologias
+
+- [Node-JS](https://nodejs.org/en/)
+- [Prisma](https://www.prisma.io/)
+- [Fastify](https://www.fastify.io/)
+- [SQLite](https://www.sqlite.org/docs.html)
+- [Zod](https://zod.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+
 ## 🚀 Como executar
 
 - Instale os pacotes com `yarn install`.
